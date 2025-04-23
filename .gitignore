@@ -1,0 +1,17 @@
+# 🔁 Node.js un npm
+node_modules/
+
+# 💻 VS Code konfigurācija
+.vscode/
+
+# 💾 Sistēmas faili (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# 🎯 SASS ģenerētie mapes faili
+*.css.map
+
+# 📦 Ignorēt visus .json failus, izņemot package.json un package-lock.json
+*.json
+!package.json
+!package-lock.json
