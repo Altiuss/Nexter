@@ -269,7 +269,7 @@ body {
   margin: 15rem 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
-  grid-gap: 6rem;
+  grid-gap: rem;
   align-items: start;
 }
 
@@ -526,4 +526,4 @@ body {
   width: 70%;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.comp.css.map */
